@@ -1,0 +1,13 @@
+{
+  "name": "hola-mundo",
+  "version": "1.0.0",
+  "description": "este es mi primer proyecto con JavaScript en Node",
+  "main": "index.js",
+  "scripts": {
+    "saludar": "node index.js"
+  },
+  "keywords": [
+  ],
+  "author": "EstiSSJ",
+  "license": "ISC"
+}
